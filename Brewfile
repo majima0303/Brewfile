@@ -11,6 +11,9 @@ cask install google-chrome
 cask install google-japanese-ime
 cask install mamp
 
+# 圧縮解凍(GUI)
+cask install the-unarchiver
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
